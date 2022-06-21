@@ -24,8 +24,8 @@
   },
   "dependencies": {
     "@opam/dune": "*",
-    "@opam/reason": "*",
-    "ocaml": "4.12.x"
+    "@opam/reason": "3.8.0",
+    "ocaml": "4.14.x"
   },
   "devDependencies": {
     "@opam/ocaml-lsp-server": "*",
